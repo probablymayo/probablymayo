@@ -4,8 +4,8 @@ This is where I toss some of my cybersecurity projects & exercises done in my ho
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Home Lab</b>
-  - [Lab Setup](https://github.com/probablymayo-sec/Home-Lab-Setup)
+- <b>Recent</b>
+  - [DLL Search-Order Hijacking](https://github.com/probablymayo/DLL-Search-Order-Hijacking)
 
 - <b>Python</b>
   - [Password Strength Checker](https://github.com/probablymayo-sec/Password-Strength-Checker)
@@ -25,8 +25,5 @@ This is where I toss some of my cybersecurity projects & exercises done in my ho
 <h2> 📺  Connect with me:</h2>
 
 [<img align="left" alt="Mayo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Mayo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://www.instagram.com/anthonydimayo/
 [linkedin]: https://linkedin.com/in/anthony-dimayo
 
